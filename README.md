@@ -32,7 +32,7 @@ Este é um projeto **HTML, CSS e JavaScript** com **Bootstrap** que permite **co
 
 1. **Baixe ou clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-imagem-doc-pdf.git
+   git clone https://github.com/DanVNeitzel/conversor-imagem-doc-pdf.git
    ```
 
 2. **Abra o arquivo `index.html` no navegador**:
