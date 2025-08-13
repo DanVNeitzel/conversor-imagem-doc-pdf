@@ -56,7 +56,7 @@ conversor-pdf/
 
 ## 📸 Preview da Interface
 
-*(adicione aqui uma captura de tela do seu sistema)*
+<img src="preview.png" alt="Preview do sistema de conversão para PDF">
 
 ## 📜 Licença
 
